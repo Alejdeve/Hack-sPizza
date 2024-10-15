@@ -5,6 +5,7 @@ import logo from './components/logo.vue';
 import Register from './components/views/Register.vue';
 import PizzaBuilder from './components/PizzaBuilder.vue';
 import PizzaBuilderMasa from './components/PizzaBuilderMasa.vue';
+import Resume from './components/Resume.vue';
 </script>
 
 <template>
@@ -17,6 +18,8 @@ import PizzaBuilderMasa from './components/PizzaBuilderMasa.vue';
   <Register></Register>
   <PizzaBuilderMasa></PizzaBuilderMasa>
   <PizzaBuilder></PizzaBuilder>
+  <Resume></Resume>
+
   
 
   
