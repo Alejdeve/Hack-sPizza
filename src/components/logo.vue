@@ -25,7 +25,7 @@ body{
   justify-content: center;
 }
 .logos-container img {
-  width: 100px;
+  width: 150px;
   height: auto;
 }
 .slogan {
